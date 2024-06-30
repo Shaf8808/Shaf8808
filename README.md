@@ -1,5 +1,7 @@
 # Hello there, I'm Shadman 👋
 
+
+
 <hr>
 
 ## Project Work
@@ -7,7 +9,7 @@
 ## Bloggerize
 | ⚡ [Live Site](https) &nbsp; &nbsp;  \| &nbsp; &nbsp;  💻 [GitHub Repo](https://github.com/)| |
 |:---	|---:	|
-| This is my very own social media application with built in modern features such as authentication, crud functionality, profile creation, ability to add comments and many more | ![Kryan Live](assets/kryan.png) |
+| This is my very own social media application with built in modern features such as authentication, crud functionality, profile creation, ability to add comments and many more | ![Bloggerize](assets/bloggerize.png) |
 
 <hr>
 
