@@ -4,7 +4,7 @@
 
 <hr>
 
-## Project Work
+## Project Portfolio
 
 ## Bloggerize
 | ⚡ [Live Site](https) &nbsp; &nbsp;  \| &nbsp; &nbsp;  💻 [GitHub Repo](https://github.com/)| |
