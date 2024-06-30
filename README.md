@@ -2,7 +2,7 @@
 
 ## Tech Stack
 
-![Javascript](https://img.shields.io/badge/Javascript-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333333&style=for-the-badge)
 
 <!--
 **Shaf8808/Shaf8808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
