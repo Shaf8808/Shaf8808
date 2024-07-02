@@ -1,10 +1,15 @@
+
+<img src="assets/portfolio-image.png" alt="Hi, I'm Shadman">
+
 # Hello there, I'm Shadman 👋
 
-
+I am a full stack software developer passionate about creating software that serves the people. I am not afraid to get stuck into unfamiliar tech stacks and enjoy nothing more than poring over my PC learning new technologies.
 
 <hr>
 
 ## Project Portfolio
+
+Below is a list of all of my major projects which I developed using various different languages and frameworks such as Javascript, React, Python, Django et.
 
 ## Bloggerize
 | ⚡ [Live Site](https) &nbsp; &nbsp;  \| &nbsp; &nbsp;  💻 [GitHub Repo](https://github.com/)| |
