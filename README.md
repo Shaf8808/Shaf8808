@@ -7,17 +7,6 @@ I am a full stack software developer passionate about creating software that ser
 
 <hr>
 
-## Project Portfolio
-
-Below is a list of all of my major projects which I developed using various different languages and frameworks such as Javascript, React, Python, Django et.
-
-## Bloggerize
-| ⚡ [Live Site](https) &nbsp; &nbsp;  \| &nbsp; &nbsp;  💻 [GitHub Repo](https://github.com/)| |
-|:---	|---:	|
-| This is my very own social media application with built in modern features such as authentication, crud functionality, profile creation, ability to add comments and many more | ![Bloggerize](assets/bloggerize.png) |
-
-<hr>
-
 ## Tech Stack
 
 ### OS
